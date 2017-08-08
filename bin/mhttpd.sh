@@ -2,4 +2,4 @@
 
 source /home/jpw/bin/set_env
 
-$gtm_dist/mumps -r %HTTPD
+$gtm_dist/mumps -r %httpd
